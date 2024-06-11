@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 474.43 410.95">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        font-family: Inter-ExtraBold, Inter;
+        font-size: 347.31px;
+        font-variation-settings: 'wght' 800, 'slnt' 0;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-2" transform="translate(0 299.95)"><tspan x="0" y="0">1</tspan></text>
+      <rect class="cls-1" x="171.76" y="305.65" width="302.67" height="79.59" rx="39.8" ry="39.8"/>
+      <rect class="cls-1" x="171.76" y="171.15" width="302.67" height="79.59" rx="39.8" ry="39.8"/>
+      <rect class="cls-1" x="171.76" y="36.65" width="302.67" height="79.59" rx="39.8" ry="39.8"/>
+    </g>
+  </g>
+</svg>
